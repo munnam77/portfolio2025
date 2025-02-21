@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "name": "@saucedrip/core",
+  "description": "Shared components and helpers for moazzemhossain.com",
+      "author": "Moazzem Hossain <moazzem@example.com> (https://moazzemhossain.com)",
+      "repository": "https://github.com/moazzemhossain/moazzemhossain.com/tree/master/literal-sauce-drip"
+}
